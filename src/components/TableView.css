@@ -1,0 +1,10 @@
+.table-view-container {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.ant-table {
+    background-color: #ffffff;
+    border-radius: 8px;
+    overflow: hidden;
+}

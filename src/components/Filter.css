@@ -1,0 +1,14 @@
+.filter-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.filter-item {
+    margin-right: 10px;
+    min-width: 150px;
+}
+
+.ant-select {
+    width: 100%;
+}
